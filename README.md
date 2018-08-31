@@ -9,11 +9,11 @@
       a.5 Krylov Acceleration 
       a.6 Coarse Space Correction 
      
-  ### b) Implementation of the above methods in simulating the heating of a room
+  ### b) Implementations of the above methods in simulating the heating of a room
          TODO 1 : Check solution5_3_Dirichlet_Neumann.m 
          TODO 2:  Write a Krylov acceleration version of Neumann-Neumann method
         
    
-## 2. The Schwarz Alterning Method on a L-shape Domain using the Finite Element Method
+## 2. Implementations of the Schwarz Alterning Method on a L-shape Domain using the Finite Element Method
 
-## 3. The Schwarz Iterations with the Closest Point Method
+## 3. Implementations of the Schwarz Iterations with the Closest Point Method
