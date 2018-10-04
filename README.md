@@ -15,6 +15,8 @@
         
    
 ## 2. Implementations of the Schwarz Alterning Method on a L-shape Domain using the Finite Element Method
+     MATLAB PDE toolbox is used to solve each sub-problem 
+     Convergence results are plotted for different meshsizes 
 
 ## 3. Implementations of the Schwarz Iterations with the Closest Point Method
  ### a) Basic closest point functions including 
